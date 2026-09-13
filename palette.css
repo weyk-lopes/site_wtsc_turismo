@@ -1,0 +1,6 @@
+/* Paleta inspirada na marca WTSC: pedra, terra, areia e vegetação da Serra da Capivara */
+:root{--ink:#4a2513;--teal:#6b3519;--teal-dark:#3b1c0d;--cream:#f4e7d1;--sun:#d98a48;--mist:#d9d4ab;--line:rgba(107,53,25,.2)}
+body{background:var(--cream)}
+.lead,.two-column p{color:#5c3a24}.values p,.story-copy p:last-child{color:#60452e}.story-cards{background:#f8efde}.story-card{background:#e7dfbd;border-color:rgba(107,53,25,.18)}
+.contact-hero{background:radial-gradient(circle at 88% 18%,#d9d4ab 0,transparent 28%),var(--cream)}.contact-details{background:#d9d4ab}.details-list a,.details-list span{color:#4a2513}
+.banner{background:#6b3519;color:#fff7ea}.text-link{color:#fff7ea}.trip-note{box-shadow:10px 10px 0 rgba(74,37,19,.16)}
